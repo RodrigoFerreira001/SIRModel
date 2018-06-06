@@ -21,13 +21,13 @@ class SIRModel:
         self.beta = beta
         self.gamma = gamma
 
-        self.susceptibles = []
+        self.susceptibles = range(graph.vcount())
         self.infecteds = []
-        self.recovered = []
+        self.recovereds = []
 
-        self.nodes_neighbours = []
+        self.nodes_neighbors = []
         for i in xrange(graph.vcount()):
-            self.nodes_neighbours.append({'infeted_neighbours' : 0, 'susceptible_neighbours' : []})
+            self.nodes_neighbors.append({'infected_neighbors': 0, 'susceptible_neighbors': self.graph.neighbors(i)})
 
     def reset(self):
         pass
@@ -37,7 +37,33 @@ class SIRModel:
 
     def infect(self, infecteds):
         for node in infecteds:
-            print node
+            self.infecteds.append(node)
 
-    def recover(self):
-        pass
+            if node in self.recovereds:
+                self.recovereds.remove(node)
+
+                for neighbor in self.graph.neighbors(node):
+                    self.nodes_neighbors[neighbor]['infected_neighbors'] += 1
+            else:
+                self.susceptibles.remove(node)
+
+                for neighbor in self.graph.neighbors(node):
+                    self.nodes_neighbors[neighbor]['susceptible_neighbors'].remove(node)
+                    self.nodes_neighbors[neighbor]['infected_neighbors'] += 1
+
+    def recover(self, recovereds):
+        for node in recovereds:
+            self.recovereds.append(node)
+
+            if node in self.infecteds:
+                self.infecteds.remove(node)
+
+                for neighbor in self.graph.neighbors(node):
+                    self.nodes_neighbors[neighbor]['infected_neighbors'] -= 1
+            else:
+                self.susceptibles.remove(node)
+
+                for neighbor in self.graph.neighbors(node):
+                    self.nodes_neighbors[neighbor]['susceptible_neighbors'].remove(node)
+
+
