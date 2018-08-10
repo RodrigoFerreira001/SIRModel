@@ -52,4 +52,5 @@ plt.title('GASIR - Genetic Algorithm for SIR Model - Melhor Caso')
 
 print "Tempo decorrido: ", (end - start)
 
-plt.show()
+#plt.show()
+plt.savefig(sys.argv[1].split(".")[0] + "_ndlib.png")
