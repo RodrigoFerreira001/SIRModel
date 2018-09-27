@@ -22,7 +22,7 @@ I = []
 R = []
 
 for i in range(50):
-    print "Iteração: ", i
+    # print "Iteração: ", i
 
     iteration = sirmodel.iterate()
 
@@ -41,7 +41,10 @@ plt.xlabel('Geracoes')
 plt.ylabel('Individuos Infectados')
 plt.title('GASIR - Genetic Algorithm for SIR Model - Melhor Caso')
 
-print "Tempo decorrido: ", (end - start)
+print str((end - start))
 
 # plt.show()
 plt.savefig(sys.argv[1].split(".")[0] + "_rlib.png")
+
+with open(sys.argv[1].split(".")[0] + "_rlib_result", 'a') as file:
+    file.write(str((end - start)) + '\n')

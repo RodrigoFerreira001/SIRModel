@@ -2,14 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a632ddb-83c1-421e-b5c2-55412f28618d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Slashdot0811.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cagrqc.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/email_enron.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/hep.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/moreno_highschool.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ndlib_test.py" afterPath="$PROJECT_DIR$/ndlib_test.py" />
-      <change beforePath="$PROJECT_DIR$/rlib_test.py" afterPath="$PROJECT_DIR$/rlib_test.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIRModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/SIRModel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bash_networks.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bash_networks.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ndlib_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/ndlib_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/arenas-jazz/out_ndlib.png" beforeDir="false" afterPath="$PROJECT_DIR$/redes/arenas-jazz/out_ndlib.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/arenas-jazz/out_rlib.png" beforeDir="false" afterPath="$PROJECT_DIR$/redes/arenas-jazz/out_rlib.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/com-youtube/README.com-youtube" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/com-youtube/meta.com-youtube" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/com-youtube/out.com-youtube" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/com-youtube/out_ndlib.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/contact/out.contact" beforeDir="false" afterPath="$PROJECT_DIR$/redes/contact/out.contact" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/digg-friends/README.digg-friends" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/digg-friends/meta.digg-friends" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/digg-friends/out.digg-friends" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/facebook-wosn-links/README.facebook-wosn-links" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/facebook-wosn-links/meta.facebook-wosn-links" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/facebook-wosn-links/out.facebook-wosn-links" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/livemocha/README.livemocha" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/livemocha/meta.livemocha" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/livemocha/out.livemocha" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/livemocha/out_ndlib.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/livemocha/out_rlib.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/mit/out.mit" beforeDir="false" afterPath="$PROJECT_DIR$/redes/mit/out.mit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/moreno_beach/README.moreno_beach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/moreno_beach/meta.moreno_beach_beach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/moreno_beach/out.moreno_beach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/moreno_health/out.moreno_health" beforeDir="false" afterPath="$PROJECT_DIR$/redes/moreno_health/out.moreno_health" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/moreno_highschool/out.moreno_highschool" beforeDir="false" afterPath="$PROJECT_DIR$/redes/moreno_highschool/out.moreno_highschool" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/moreno_oz/out.moreno_oz" beforeDir="false" afterPath="$PROJECT_DIR$/redes/moreno_oz/out.moreno_oz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/moreno_sampson/README.moreno_sampson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/moreno_sampson/meta.moreno_sampson_sampson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/moreno_sampson/out.moreno_sampson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/moreno_seventh/README.moreno_seventh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/moreno_seventh/ent.moreno_seventh_seventh.student.gender" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/moreno_seventh/meta.moreno_seventh_seventh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/moreno_seventh/out.moreno_seventh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/moreno_taro/README.moreno_taro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/moreno_taro/meta.moreno_taro_taro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/moreno_taro/out.moreno_taro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/moreno_train/out.moreno_train" beforeDir="false" afterPath="$PROJECT_DIR$/redes/moreno_train/out.moreno_train" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/moreno_vdb/README.moreno_vdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/moreno_vdb/meta.moreno_vdb_vdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/moreno_vdb/out.moreno_vdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/petster-friendships-cat/README.petster-friendships-cat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/petster-friendships-cat/ent.petster-friendships-cat-uniq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/petster-friendships-cat/meta.petster-friendships-cat-uniq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/petster-friendships-cat/out.petster-friendships-cat-uniq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/petster-friendships-dog/README.petster-friendships-dog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/petster-friendships-dog/ent.petster-friendships-dog-uniq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/petster-friendships-dog/meta.petster-friendships-dog-uniq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/petster-friendships-dog/out.petster-friendships-dog-uniq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/sociopatterns-hypertext/out.sociopatterns-hypertext" beforeDir="false" afterPath="$PROJECT_DIR$/redes/sociopatterns-hypertext/out.sociopatterns-hypertext" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redes/sociopatterns-infectious/out.sociopatterns-infectious" beforeDir="false" afterPath="$PROJECT_DIR$/redes/sociopatterns-infectious/out.sociopatterns-infectious" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rlib_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/rlib_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,46 +66,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ndlib_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ndlib_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="55" column="42" lean-forward="false" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="44" />
-              <folding>
-                <element signature="e#25#61#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rlib_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rlib_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-              <folding>
-                <element signature="e#25#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SIRModel.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SIRModel.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SIRModel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="58" column="45" lean-forward="false" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bash_networks.sh" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bash_networks.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="65" column="50" lean-forward="false" selection-start-line="65" selection-start-column="50" selection-end-line="65" selection-end-column="50" />
-              <folding />
+            <state relative-caret-position="489">
+              <caret line="72" column="12" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,9 +92,13 @@
       <find>nodes_status</find>
       <find>status</find>
       <find>/redes</find>
+      <find>10</find>
+      <find>&gt;&gt; result_rlib</find>
+      <find>print</find>
     </findStrings>
     <replaceStrings>
       <replace>redes</replace>
+      <replace>100</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -93,10 +111,12 @@
         <option value="$PROJECT_DIR$/cSIRModel.py" />
         <option value="$PROJECT_DIR$/rlib2_test.py" />
         <option value="$PROJECT_DIR$/SIRModel2.py" />
-        <option value="$PROJECT_DIR$/SIRModel.py" />
+        <option value="$PROJECT_DIR$/remove_extra_col.py" />
+        <option value="$PROJECT_DIR$/bash_networks.sh" />
         <option value="$PROJECT_DIR$/ndlib_test.py" />
         <option value="$PROJECT_DIR$/rlib_test.py" />
-        <option value="$PROJECT_DIR$/bash_networks.sh" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/SIRModel.py" />
       </list>
     </option>
   </component>
@@ -105,22 +125,14 @@
     <option name="width" value="1920" />
     <option name="height" value="1053" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -150,9 +162,6 @@
       </list>
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -167,39 +176,111 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <frame x="0" y="27" width="1600" height="873" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33296704" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18654822" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33653846" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32967034" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rlib_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+          <folding>
+            <element signature="e#25#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIRModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ndlib_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#25#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bash_networks.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redes/arenas-jazz/out_ndlib_result">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remove_extra_col.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ndlib_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="e#25#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rlib_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#25#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIRModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="58" column="45" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ndlib_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
-          <caret line="55" column="42" lean-forward="false" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="44" />
+          <caret line="55" column="42" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="44" />
           <folding>
             <element signature="e#25#61#0" expanded="true" />
           </folding>
@@ -209,7 +290,7 @@
     <entry file="file://$PROJECT_DIR$/rlib_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
-          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
           <folding>
             <element signature="e#25#54#0" expanded="true" />
           </folding>
@@ -220,48 +301,122 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1620">
           <caret line="92" column="39" lean-forward="true" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rlib2_test.py" />
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/ndlib/models/epidemics/SIRModel.py">
+    <entry file="file://$PROJECT_DIR$/SIRModel2.py" />
+    <entry file="file://$PROJECT_DIR$/txtndlib.png" />
+    <entry file="file://$PROJECT_DIR$/redes/moreno_beach/out.moreno_beach" />
+    <entry file="file://$PROJECT_DIR$/redes/moreno_health/out.moreno_health">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SIRModel2.py" />
-    <entry file="file://$PROJECT_DIR$/txtndlib.png" />
-    <entry file="file://$PROJECT_DIR$/bSIRModel.py">
+    <entry file="file://$PROJECT_DIR$/redes/moreno_highschool/out.moreno_highschool">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redes/moreno_oz/out.moreno_oz">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redes/moreno_innovation/out.moreno_innovation">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redes/moreno_sampson/out.moreno_sampson" />
+    <entry file="file://$PROJECT_DIR$/redes/moreno_seventh/out.moreno_seventh" />
+    <entry file="file://$PROJECT_DIR$/redes/moreno_taro/out.moreno_taro">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redes/moreno_train/out.moreno_train">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redes/sociopatterns-infectious/out.sociopatterns-infectious">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redes/moreno_vdb/out.moreno_vdb" />
+    <entry file="file://$PROJECT_DIR$/redes/arenas-jazz/out_ndlib_result">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bash_networks.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ndlib_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="55" column="42" lean-forward="false" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="44" />
+        <state relative-caret-position="260">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
           <folding>
             <element signature="e#25#61#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bSIRModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1556" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remove_extra_col.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="10" selection-start-column="10" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rlib_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        <state relative-caret-position="244">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
           <folding>
             <element signature="e#25#54#0" expanded="true" />
           </folding>
@@ -270,17 +425,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SIRModel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="58" column="45" lean-forward="false" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bash_networks.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="65" column="50" lean-forward="false" selection-start-line="65" selection-start-column="50" selection-end-line="65" selection-end-column="50" />
-          <folding />
+        <state relative-caret-position="489">
+          <caret line="72" column="12" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

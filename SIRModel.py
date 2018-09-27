@@ -1,6 +1,5 @@
 from igraph import *
 import numpy as np
-import time
 
 __author__ = "Rodrigo Ferreira"
 __license__ = "GPLv3"
@@ -29,24 +28,10 @@ class SIRModel:
 
         self.nodes_neighbors = []
 
-        start = time.clock()
-
-        # for i in range(graph.vcount()):
-        #     self.nodes_neighbors.append(
-        #         {'infected_neighbors': 0,
-        #          'susceptible_neighbors': [int(self.graph.vs[v]['name']) for v in self.graph.neighbors(self.graph.vs.find(str(i)))]})
-
         for v in self.graph.vs():
             self.nodes_neighbors.append(
                 {'infected_neighbors': 0,
                  'susceptible_neighbors': self.graph.neighbors(v)})
-
-        end = time.clock()
-
-        print "TD: ", end - start
-
-        # for i, e in enumerate(self.nodes_neighbors):
-        #     print i,": ",e
 
     def reset(self):
         pass
@@ -54,7 +39,7 @@ class SIRModel:
     def iterate(self):
         """
             Infection and recovery Process
-        :return: status
+        :return: infection status
         """
         for node in reversed(self.infecteds):
 
@@ -76,7 +61,6 @@ class SIRModel:
             if event < self.gamma:
                 self.recovereds.append(node)
                 self.infecteds.remove(node)
-                #remover contagem de vizinhos infectados?
 
                 for neighbor in self.graph.neighbors(node):
                     self.nodes_neighbors[neighbor]['infected_neighbors'] -= 1
@@ -85,10 +69,13 @@ class SIRModel:
         return (len(self.susceptibles), len(self.infecteds), len(self.recovereds))
 
     def infect(self, infecteds):
+        """
+            Infect individuals by the given ids
+            :param infecteds: ids list of individual to be infected:
+        """
+
         for node in infecteds:
             self.infecteds.append(node)
-
-            #print "Infectado: ", node
 
             if node in self.recovereds:
                 self.recovereds.remove(node)
@@ -103,6 +90,11 @@ class SIRModel:
                     self.nodes_neighbors[neighbor]['susceptible_neighbors'].remove(node)
 
     def recover(self, recovereds):
+        """
+            Recover individuals by the given ids
+            :param recovereds: ids list of individual to be recovered:
+        """
+
         for node in recovereds:
             self.recovereds.append(node)
 
